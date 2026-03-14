@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Sagar Kumar 👋
 
-<!--
-**sgrkumr1049-sgr/sgrkumr1049-sgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Web Developer
 
-Here are some ideas to get you started:
+Skills
+HTML
+CSS
+JavaScript
+Git
+GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+Calculator
+Bubble Game
+Rock Paper Scissors
+Analog & Digital Clock
+instagram story feature
+stop watch
